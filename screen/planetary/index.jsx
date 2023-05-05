@@ -90,7 +90,7 @@ const Saturn = () => (
 
 export const PlanetaryScreen = () => {
   return (
-    <div className="h-full w-full overflow-hidden bg-red-900">
+    <div className="h-full w-full overflow-hidden">
       <div className="flex justify-center items-center">
         <Sun />
         <Mercury />
